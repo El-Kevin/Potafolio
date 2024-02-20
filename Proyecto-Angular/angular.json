@@ -32,7 +32,7 @@
             "styles": [
               "src/assets/css/style.css"
             ],
-            "scripts": []
+            "scripts": ["node_modules/jquery/dist/jquery.min.js"]
           },
           "configurations": {
             "production": {
